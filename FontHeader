@@ -2,5 +2,5 @@
 font-family: FIRE;
 font-style: normal;
 font-weight: 400;
-src: url(https://rawcdn.githack.com/Tectorr/WorldAnvilFonts/master/BreatheFire-65pg.ttf) ;
+src: url(https://rawcdn.githack.com/Tectorr/WorldAnvilFonts/a6ba6d53251cdc808115e694332ff8530e76ec84/BreatheFire-65pg.ttf) ;
 }
